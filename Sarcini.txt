@@ -1,0 +1,16 @@
+True
+cumparaturi
+mere, banane, oua
+3/2/2022 3:00:29 PM
+False
+curatenie
+de dus gunoiul, de sters praful
+3/3/2022 5:40:54 PM
+True
+de terminat cartea
+de citit ultimul capitol al cartii 
+2/23/2022 10:48:00 AM
+False
+mancam azi
+vreau mivina.
+3/8/2022 5:45:01 PM
